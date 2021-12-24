@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 oct. 2021, 15:22:35
+    Author     : eloua
+*/
+
+.autresTitres {
+  color: green; 
+  font-size: 35px; 
+  text-align: left; 
+  text-decoration: underline;
+}
+
+img {
+    border: 5px solid red;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 15%;
+    height: 30%;
+    background-color: blue;
+    
+    position: fixed;
+    padding: 10px;
+    right: 20px;
+    top: 20px;
+    width: 15%;
+}
+
+table {
+    border: 2px solid red;
+    border-collapse: collapse;
+    text-align: center;
+    width: 25%;
+}
+
+th {
+    color: green;
+    width: 25px;
+    border: 2px solid red;
+    border-collapse: collapse;
+}    
+
+td {
+    color: blue;
+    border: 2px solid red;
+    border-collapse: collapse;
+}
