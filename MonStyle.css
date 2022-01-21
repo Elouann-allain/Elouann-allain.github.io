@@ -30,11 +30,23 @@ img {
     width: 20%;
 }
 
+img.initiale {   
+    position: initial;
+    width: 45%;
+}
+
 table {
     border: 2px solid red;
     border-collapse: collapse;
     text-align: center;
     width: 25%;
+    align: center
+}
+
+table.jojo {
+    border: 1px;
+    text-align: center;
+    width: 100%;
     align: center
 }
 
@@ -45,7 +57,7 @@ th {
     border-collapse: collapse;
 }    
 
-td {
+td.jojo {
     color: captiontext;
     border: 2px solid red;
     border-collapse: collapse;
@@ -53,7 +65,7 @@ td {
 
 form.button {
     text-align: center;
-    font-size: 60%;
+    font-size: 100%;
 }
 
 caption {
